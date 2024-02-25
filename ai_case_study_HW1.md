@@ -1,4 +1,4 @@
-# **__How Deloitte Uses AI__**
+# **_How Deloitte Uses AI_**
 
 ## Overview and Origin of Deloitte
 
