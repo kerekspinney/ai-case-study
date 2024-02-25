@@ -1,4 +1,4 @@
-# How Deloitte Uses AI
+# **How Deloitte Uses AI**
 
 ## Overview and Origin of Deloitte
 
@@ -24,6 +24,10 @@
 * The main Ai technology that Deloitte is using for their accounting services is their AI Robot #6. This robot has been continuously upgraded to add new functionality to be taken advantage of in all areas of Deloitte's business. The article, Explore Audit Innovation with Deloitte AI Robot #6, states, "Enterprise-related risk query: Based on a list of suppliers and agents, Deloitte AI Robot automatically searches third party databases to obtain a relationship map of related enterprises. It uses digital tools to reshape the process of identifying enterprise-related risks and enhance efficiency. According to our pilots, it can help save labor cost by 100 percent and improve query time and processing efficiency by 86 percent." This means that Deloitte's employees have more time to review their/the ai robot #6's work to be much more efficient. This in theory also allows Deloitte to be able to take on more clients to increase their revenue since their employees have more time to complete their work. One function of the ai robot #6 that is like other ai services created by other companies is their document review and analysis tool. This tool analyzes legal documents at extremely fast speeds to review loan agreements, financial statements, leases, and other contracts. This function is not dissimilar to other products available on the market, but it has decreased Deloitte's labor cost related to completing these services by roughly 80%. This is a huge decrease in cost which allows Deloitte to spend their money in different areas of their business.
 
 * Deloitte also has created a chatbot which is solely used by its employees. The article, Deloitte is rolling out an AI chatbot that can help staff answer emails and create presentations, says, "The tool can assist staff with daily tasks like writing emails, creating PowerPoint presentations, and carrying out research." Also, the tool can be used to create code to automate different tasks. One issue with this ai chatbot is that the information it gives Deloitte's employees needs to be fact checked, because it isn't always correct. This is not dissimilar to other chatbots which show that technology still has a long way to go. 
+
+## Recommendations
+
+* My recommendations for Deloitte is to continue its research and adoption of ai tools. Accounting is a services which is able to utilize ai on a grand scale which will allow its services to be highly automated. One recommendation is that Deloitte should train its employees on how to use ai and how to better be able to detect errors in the ai tools they are using. Since ai will decrease the amount of labor hours of Deloitte's employees, they will want to know how to better review and utilize these ai tools. This is because in order for their employees to not become obsolete, they will need to have the tools to use this technology. Many people are afraid of ai taking human jobs, but I think that ai will also create a vast number of jobs that were never consievable before this technology was created. In order for employees to thrive at Deloitte in the future, they will need to be able to use this technology and continue to innovate. 
 
 
 ## Conclusion
